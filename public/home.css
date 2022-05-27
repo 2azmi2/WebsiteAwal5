@@ -1,0 +1,54 @@
+body{
+	background: url('img/bg1.png'), url('img/bg2.png'), url('img/background.jpg');
+	background-repeat: no-repeat, no-repeat;
+	background-position: left, right;
+	background-attachment: fixed, fixed;
+    background-size: auto, auto, 100%;
+	background-color: rgb(181, 181, 255);
+}
+.container{
+    background: rgba(255, 255, 255, 0.9);
+}
+.row{
+    text-align: center;
+}
+.fix{
+    text-align: center;
+    color: blue;
+    font-size: 30pt;
+    font-family: comic sans MS;
+}
+.contain{
+    font-size: 15pt;
+}
+.myself{
+    padding-left: 25%;
+}
+.judul{
+    text-align: center;
+}
+.containerUtama1{
+    text-align: center;
+    margin-top: 75px;
+    background-color: rgba(255, 255, 255, 0.6);
+    margin-left: 350px;
+    margin-right: 350px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+.containerForm{
+    text-align: center;
+}
+.containerUtama2{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.6);
+    margin-left: 350px;
+    margin-right: 350px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+.containerForm2{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
